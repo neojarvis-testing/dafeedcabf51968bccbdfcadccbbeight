@@ -1,4 +1,4 @@
-pip install "apache-airflow==2.8.1" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.1/constraints-3.11.txt"
+#pip install "apache-airflow==2.8.1" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.1/constraints-3.11.txt"
 
 # Set environment variables (use your own values as needed)
 export AIRFLOW_HOME=~/airflow
