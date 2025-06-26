@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "🔍 Checking Hive..."
-$HIVE_HOME/bin/hive --service hiveserver2
+#$HIVE_HOME/bin/hive --service hiveserver2
 
 # CLI Check
 echo "[✔] Running Hive shell test:"
